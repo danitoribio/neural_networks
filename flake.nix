@@ -12,6 +12,7 @@
           custom-python = python310.withPackages (p:
             with p; [
               ipykernel
+              matplotlib
               numpy
               torch
               torchvision
