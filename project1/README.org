@@ -5,6 +5,6 @@ Important videos: https://www.youtube.com/playlist?list=PLkgbkukKg_Nrk7OtpwZEdVa
                   
 Tasks to be done: 
                 - Study the influence of the projected dimension (15,30,50,100) to select the NN
-                - mplement regularization techniques. Also, regularizing the encoder's output with a Lasso can be a good idea. 
+                - Implement regularization techniques. Also, regularizing the encoder's output with a Lasso can be a good idea. 
                 - implement a denoising autoencoder. Use additive zero-mean Gaussian noise of a given (tunable) variance as injected noise. Analyze the performance as a function of the variance. 
                 - 
