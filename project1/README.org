@@ -4,7 +4,7 @@ Important videos: https://www.youtube.com/playlist?list=PLkgbkukKg_Nrk7OtpwZEdVa
                   https://www.youtube.com/watch?v=zp8clK9yCro (followed for the training in combination with the class notebooks)
                   
 Tasks to be done: 
-                - Meter el training loop dentro de la clase del autoencoder 
+                - Meter el training loop dentro de la clase del autoencoder (Hehco)
                 - Hacer otro metodo para la evaluacion (esta todo en la parte dos del segundo notebook)
                 - Study the influence of the projected dimension (15,30,50,100) to select the NN (test loss)
                 - Implement regularization techniques. 
