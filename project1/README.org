@@ -5,8 +5,9 @@ Important videos: https://www.youtube.com/playlist?list=PLkgbkukKg_Nrk7OtpwZEdVa
                   
 Tasks to be done: 
                 - Meter el training loop dentro de la clase del autoencoder (Hecho)
-                - Hacer otro metodo para la evaluacion (esta todo en la parte dos del segundo notebook)
+                - Hacer otro metodo para la evaluacion (esta todo en la parte dos del segundo notebook) (Hecho)
                 - Study the influence of the projected dimension (15,30,50,100) to select the NN (test loss)
+                - guardar modelos
                 - Implement regularization techniques. 
                   - Drop out (Hecho)
                   - Early stopping (Hecho) 
