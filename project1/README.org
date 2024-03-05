@@ -2,6 +2,8 @@ Project 1
 
 Important videos: https://www.youtube.com/playlist?list=PLkgbkukKg_Nrk7OtpwZEdVa10LijfpyZ1 (first two)
                   https://www.youtube.com/watch?v=zp8clK9yCro (followed for the training in combination with the class notebooks)
+
+Important websites: https://plainenglish.io/blog/denoising-autoencoder-in-pytorch-on-mnist-dataset-a76b8824e57e
                   
 Tasks to be done: 
                 - Meter el training loop dentro de la clase del autoencoder (Hecho)
