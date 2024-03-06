@@ -8,11 +8,11 @@ Important websites: https://plainenglish.io/blog/denoising-autoencoder-in-pytorc
 Tasks to be done: 
                 - Meter el training loop dentro de la clase del autoencoder (Hecho)
                 - Hacer otro metodo para la evaluacion (esta todo en la parte dos del segundo notebook) (Hecho)
-                - Study the influence of the projected dimension (15,30,50,100) to select the NN (test loss)
-                - guardar modelos
+                - Study the influence of the projected dimension (15,30,50,100) to select the NN (test loss) (Hecho)
+                - guardar modelos (Hecho)
                 - Implement regularization techniques. 
                   - Drop out (Hecho)
                   - Early stopping (Hecho) 
-                  - Also, regularizing the encoder's output with a Lasso can be a good idea. 
+                  - Also, regularizing the encoder's output with a Lasso can be a good idea. (Hecho)
                 - implement a denoising autoencoder. Use additive zero-mean Gaussian noise of a given (tunable) variance as injected noise. Analyze the performance as a function of the variance. 
                 
