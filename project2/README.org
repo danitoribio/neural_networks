@@ -1,3 +1,9 @@
 Important videos: https://www.youtube.com/watch?v=hWb-MIXKe-s
 
 Tasks to be done:
+    Split trainset into train 80% and valid 20%
+    Evaluate the reliability diagram and the ECE in the test set with sklearn functions
+    Implement a basic temperature scaling (Platt's scaling)
+    optional:Repeat the same experiment for a much bigger model obtained after fine-tuning 
+        a pre-trained model's last classification layer. Note that if you use a model pre-trained over 
+        a different database, you probably have to re-adapt the input dimensionality.
