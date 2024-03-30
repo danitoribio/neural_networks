@@ -22,11 +22,11 @@
             ]);
         in mkShell {
           packages = [
-            custom-python
-            cudaPackages.cuda_nvcc
+            # custom-python
+            # cudaPackages.cuda_nvcc
 
-            cudaPackages.cuda_cccl
-            cudaPackages.cudatoolkit
+            # cudaPackages.cuda_cccl
+            # cudaPackages.cudatoolkit
           ];
         };
     };
