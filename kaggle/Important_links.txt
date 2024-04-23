@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=PCgrgHgy26c
+https://www.youtube.com/watch?v=ARqBONXh1EM
+https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf
+https://github.com/ni79ls/har-keras-cnn/blob/master/20180903_Keras_HAR_WISDM_CNN_v1.0_for_medium.py
